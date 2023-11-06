@@ -10,4 +10,4 @@
 - Implemented authentication and authorization for different roles.
 - Students can purchase courses by paying Stripe.
 
-###### [Server Code](https://github.com/khalidccnu/thinklock-server-side) | [Live](https://thinklock.netlify.app)
+###### [Server Code](https://github.com/ahadhossainaiman/thinklock-server-side) | [Live](https://thinklock.netlify.app)
